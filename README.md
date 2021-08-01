@@ -60,7 +60,7 @@ Want to contribute? Yeah!!
 
 Dm me on any of them:
 * LinkedIn:  https://www.linkedin.com/in/rohit-choudhary-0b42641aa/
-* Instagram:  https://www.instagram.com/_rohit.chaudhary__/?hl=en 
-
+* Instagram:  https://www.instagram.com/_rohit.chaudhary__/?hl=en  |
+![instagram](https://user-images.githubusercontent.com/71605903/127787735-c1552e57-87dc-4093-bece-370dc894899c.png)|
 
 
