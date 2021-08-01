@@ -59,7 +59,8 @@ In SMS, we can enter the details of student and calculate their total attendence
 Want to contribute? Yeah!!
 
 Dm me on any of them:
-* LinkedIn:  https://www.linkedin.com/in/rohit-choudhary-0b42641aa/
+* LinkedIn:  https://www.linkedin.com/in/rohit-choudhary-0b42641aa/ |![linkedin](https://user-images.githubusercontent.com/71605903/127787768-76b8a6c0-f18d-4dbf-b394-38e683462e7a.png)
+ |
 * Instagram:  https://www.instagram.com/_rohit.chaudhary__/?hl=en  |
 ![instagram](https://user-images.githubusercontent.com/71605903/127787735-c1552e57-87dc-4093-bece-370dc894899c.png)|
 
