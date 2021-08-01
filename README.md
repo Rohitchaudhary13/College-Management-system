@@ -1,4 +1,4 @@
-# College-Management-system
+# College-Management-system 💼
 
 ![alt text](https://images.unsplash.com/photo-1535982330050-f1c2fb79ff78?ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8Y29sbGVnZXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60)
 
@@ -60,4 +60,7 @@ Want to contribute? Yeah!!
 
 Dm me on any of them:
 * LinkedIn:  https://www.linkedin.com/in/rohit-choudhary-0b42641aa/
-* Instagram:  https://www.instagram.com/_rohit.chaudhary__/?hl=en
+* Instagram:  https://www.instagram.com/_rohit.chaudhary__/?hl=en 
+
+
+
