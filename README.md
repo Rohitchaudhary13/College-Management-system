@@ -7,6 +7,9 @@ It is a C-Language mini project. This mini project contains two sub categories i
 
 ## Employee Management System
 
+![alt text](https://unsplash.com/photos/GwOqUzrDSRM)
+
+
 In EMS we can enter the details of faculties or employees on the basis of their working department and maintain a record of it. This project helps to maintain the attendenace of both students and faculty that works in college. First user can signup or create his/her own personal account in the system. Then he/she login and can enter any number of details about student or faculty. 
 The processes it performs are: 
 1) Add record
