@@ -1,12 +1,7 @@
 # College-Management-system
 
-<p align="right">
-  <img src="https://images.unsplash.com/photo-1535982330050-f1c2fb79ff78?ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8Y29sbGVnZXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" width="350" title="hover text">
-<!--   <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text"> -->
-</p>
-
-
-<p align="left" width="350"> It is a C-Language mini project. This mini project contains two sub categories i.e Employee Management System and Student Management System. </p>
+![alt text](https://images.unsplash.com/photo-1535982330050-f1c2fb79ff78?ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8Y29sbGVnZXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60)
+It is a C-Language mini project. This mini project contains two sub categories i.e Employee Management System and Student Management System.
 
 ## Employee Management System
 
