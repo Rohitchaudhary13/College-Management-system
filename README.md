@@ -35,13 +35,13 @@ In SMS, we can enter the details of student and calculate their total attendence
 
 ## How To Use?
 
-Step 1: Download these files in a seperate folder and open them in any IDE that support C/C++, preferably CodeBlocks.
-Step 2: Now Build and Run cover.cpp file, do not maximise the output window as it will ruin the placement of output text.
-Step 3: You can maximise when login/signup screen occurs.
-Step 4: Now Signup with your name, mobile number, city name and password.
-Step 5: Login with same credentials and you'll be welcomed.
-Step 6: Choose between Student or Employee management system and go through.
-Step 7: Have a tour of the project and enjoy!!
+* Step 1: Download these files in a seperate folder and open them in any IDE that support C/C++, preferably CodeBlocks.
+* Step 2: Now Build and Run cover.cpp file, do not maximise the output window as it will ruin the placement of output text.
+* Step 3: You can maximise when login/signup screen occurs.
+* Step 4: Now Signup with your name, mobile number, city name and password.
+* Step 5: Login with same credentials and you'll be welcomed.
+* Step 6: Choose between Student or Employee management system and go through.
+* Step 7: Have a tour of the project and enjoy!!
 
 ## Problems due to which program may not run!
 
@@ -54,5 +54,5 @@ Step 7: Have a tour of the project and enjoy!!
 Want to contribute? Yeah!!
 
 Dm me on any of them:
-LinkedIn:  https://www.linkedin.com/in/rohit-choudhary-0b42641aa/
-Instagram:  https://www.instagram.com/_rohit.chaudhary__/?hl=en
+* LinkedIn:  https://www.linkedin.com/in/rohit-choudhary-0b42641aa/
+* Instagram:  https://www.instagram.com/_rohit.chaudhary__/?hl=en
