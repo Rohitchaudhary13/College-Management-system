@@ -6,7 +6,7 @@
 </p>
 
 
-<p align="left"> It is a C-Language mini project. This mini project contains two sub categories i.e Employee Management System and Student Management System. </p>
+<p align="left" width="350"> It is a C-Language mini project. This mini project contains two sub categories i.e Employee Management System and Student Management System. </p>
 
 ## Employee Management System
 
